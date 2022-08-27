@@ -14,10 +14,10 @@ abstract public class Animal {
         this.name = name;
     }
 
-    abstract protected void run(double obstacleLength);
-    abstract protected void swim(double obstacleLength);
+    abstract public void run(double obstacleLength);
+    abstract public void swim(double obstacleLength);
 
-    protected static int getCount() {
+    public static int getCount() {
         return count;
     }
 

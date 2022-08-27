@@ -1,4 +1,6 @@
-package ua.ithillel.lms.javapro.pavlopashchevskyi.task4;
+import ua.ithillel.lms.javapro.pavlopashchevskyi.task4.Animal;
+import ua.ithillel.lms.javapro.pavlopashchevskyi.task4.Cat;
+import ua.ithillel.lms.javapro.pavlopashchevskyi.task4.Dog;
 
 public class Main {
 
